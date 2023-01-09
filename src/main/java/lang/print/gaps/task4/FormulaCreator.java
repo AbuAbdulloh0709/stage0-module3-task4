@@ -5,7 +5,7 @@ public class FormulaCreator {
         int a = 3;
         int b = 4;
 
-        double i = (9 * a * a - 5 * b + 2 + a - 7) * ((a + b - 4 * a * b) / 2.f);
+        double i = (9 * a * a - 5 * b + 2 + a - 7) * ((a + b - 4 * a * b) / 2);
 
     }
 }
